@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Register_checkBox-Receive exclusive offers</name>
+   <name>Register_input-Confirm Password</name>
    <tag></tag>
-   <elementGuidId>837436cf-0bac-439d-9773-609ea6959c19</elementGuidId>
+   <elementGuidId>d52427b3-ae35-4c53-a972-b52ab0da5be4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;allowOffersPromotion&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@name='confirm_passwordRegisterPage']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='allowOffersPromotion']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;confirm_passwordRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>26ffce5f-84b3-4e5d-b9a6-0e7a0cff3e15</webElementGuid>
+      <webElementGuid>9f6b0500-a945-45a2-a6ea-c5d829d35130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>allowOffersPromotion</value>
-      <webElementGuid>4c171acc-4715-4fa5-897a-721e0cf40a80</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-model</name>
-      <type>Main</type>
-      <value>model.offers_promotion</value>
-      <webElementGuid>0a48a4de-00c1-47c6-9755-e31de1c52327</webElementGuid>
+      <value>confirm_passwordRegisterPage</value>
+      <webElementGuid>f425cb91-703a-4dee-b77f-b12cc5a8b780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>584d1c62-31a0-4b16-bf3c-76807e770433</webElementGuid>
+      <value>password</value>
+      <webElementGuid>3767ed97-cdea-4139-b0d6-af4f796fdf19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>data-ng-model</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>e5e2d911-cf79-4e55-a324-8e787d50796d</webElementGuid>
+      <value>secModel</value>
+      <webElementGuid>c561884e-23fd-4ada-ac6b-86a9d47e9f40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-untouched ng-valid ng-dirty ng-valid-parse</value>
-      <webElementGuid>46adf894-d0be-46b7-a24b-953b2145a340</webElementGuid>
+      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
+      <webElementGuid>46a9358a-01cd-40db-ac7c-132067b361b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formCover&quot;)/div[@class=&quot;option marginTop&quot;]/input[@class=&quot;ng-untouched ng-valid ng-dirty ng-valid-parse&quot;]</value>
-      <webElementGuid>07413861-c857-4ab6-a47f-6db9e25e13b5</webElementGuid>
+      <value>id(&quot;formCover&quot;)/div[1]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
+      <webElementGuid>2d995434-b58a-45e7-9810-b26b2245f9f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='allowOffersPromotion']</value>
-      <webElementGuid>4b97227e-8396-4770-94a2-be2540018068</webElementGuid>
+      <value>//input[@name='confirm_passwordRegisterPage']</value>
+      <webElementGuid>492e4849-b6df-43df-882e-5e962fe59d4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='formCover']/div[4]/input</value>
-      <webElementGuid>160a89bb-80e3-47d1-a3b1-7c3d439e29a3</webElementGuid>
+      <value>//div[@id='formCover']/div/div[2]/sec-view[2]/div/input</value>
+      <webElementGuid>db77bc31-fb22-4f55-89ac-4866a539ff0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use maximum 10 character'])[2]/following::input[1]</value>
-      <webElementGuid>5d4e8db8-c016-4b63-a3f8-4d3af60ba478</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::input[1]</value>
+      <webElementGuid>c372c7e7-299d-4544-afcb-eaff8f429722</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Code'])[2]/following::input[1]</value>
-      <webElementGuid>e259acc9-22eb-4159-8f27-8b1de6333226</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Including at least one number'])[1]/following::input[1]</value>
+      <webElementGuid>2eacb50c-dd67-420c-a656-478a28d83623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receive exclusive offers and promotions from Advantage'])[1]/preceding::input[1]</value>
-      <webElementGuid>73547c62-1f7e-4231-a4ef-01a3eb6ed82c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm password'])[2]/preceding::input[1]</value>
+      <webElementGuid>f61cafbe-ba08-40a5-90ce-75137364492b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='I agree to the www.AdvantageOnlineShopping.com Conditions of Use and Privacy Notice'])[1]/preceding::input[2]</value>
-      <webElementGuid>c16fa974-f4b9-479f-81ca-ddda6a8d443e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Same as Password'])[1]/preceding::input[2]</value>
+      <webElementGuid>d70894a4-1918-47dd-bbd8-edfe11edd2d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
-      <webElementGuid>f4554419-a271-4d17-8a17-cb734d80012f</webElementGuid>
+      <value>//div[2]/sec-view[2]/div/input</value>
+      <webElementGuid>9347b08a-135d-449a-baa8-2c5b55bf2492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'allowOffersPromotion' and @type = 'checkbox']</value>
-      <webElementGuid>06b031b6-4dff-4c61-b233-d3048c694755</webElementGuid>
+      <value>//input[@name = 'confirm_passwordRegisterPage' and @type = 'password']</value>
+      <webElementGuid>e3b9d0b5-1512-40f4-b138-1543647a987c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

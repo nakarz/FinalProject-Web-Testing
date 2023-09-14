@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Register_input-Phone Numner</name>
+   <name>Register_input-Username</name>
    <tag></tag>
-   <elementGuidId>dbe40c58-8f00-4302-9401-31865b779f2d</elementGuidId>
+   <elementGuidId>51a65bfc-d83d-4743-9b72-9dc65425107a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;phone_numberRegisterPage&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@name='usernameRegisterPage']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='phone_numberRegisterPage']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;usernameRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>87ce2df1-ee47-4cc9-b7d7-cdec8a6dd6c1</webElementGuid>
+      <webElementGuid>d6348517-1e85-407a-bee2-d89a3aa18198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>phone_numberRegisterPage</value>
-      <webElementGuid>39fa8aef-dc78-4415-b10d-8fcf927feb23</webElementGuid>
+      <value>usernameRegisterPage</value>
+      <webElementGuid>ebbe5943-ac51-4374-9d82-128df6c12fa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5842de2e-7618-466d-a945-0450a9ce7a6c</webElementGuid>
+      <webElementGuid>ee4d27ba-09e1-43ce-9946-8b7fcc11dc39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>1b182803-2a29-44b3-8188-2abd4059e028</webElementGuid>
+      <webElementGuid>b6abb10b-a219-4342-9820-553d49fda6c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,70 +54,70 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
-      <webElementGuid>ec670416-a609-4106-a892-4864d021727c</webElementGuid>
+      <webElementGuid>67299ea1-85a2-416d-b3c3-643902f431c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formCover&quot;)/div[2]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
-      <webElementGuid>e60e7ca0-4d8b-4144-98da-b9a96dddfdd5</webElementGuid>
+      <value>id(&quot;formCover&quot;)/div[1]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
+      <webElementGuid>2a5eebb2-b037-4053-bec0-585d69a6987a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='phone_numberRegisterPage']</value>
-      <webElementGuid>1fe83cb2-abe7-4f6c-ac00-df81ba85e944</webElementGuid>
+      <value>//input[@name='usernameRegisterPage']</value>
+      <webElementGuid>5231831c-cf28-45e4-86b3-d2b766706fe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='formCover']/div[2]/div[2]/sec-view/div/input</value>
-      <webElementGuid>b6a44a57-57f0-41f9-b417-1a230aa5c9b1</webElementGuid>
+      <value>//div[@id='formCover']/div/div/sec-view/div/input</value>
+      <webElementGuid>0d997bf7-684d-41ba-9837-04015f760ba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use maximum 30 character'])[2]/following::input[1]</value>
-      <webElementGuid>1351677e-817b-4b78-8eea-d97c05bf1588</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::input[1]</value>
+      <webElementGuid>f12542af-7a91-4611-b105-c8fa9c9bedbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[2]/preceding::input[1]</value>
-      <webElementGuid>62f3553e-6ea2-43ba-a554-125b85efb6ff</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT DETAILS'])[1]/following::input[1]</value>
+      <webElementGuid>9fb18c3f-fc08-47e3-b4c8-151dc42f3cd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use maximum 20 character'])[1]/preceding::input[1]</value>
-      <webElementGuid>50b3960a-ba20-49dd-a7d8-fb228c06781d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[3]/preceding::input[1]</value>
+      <webElementGuid>521bc3ba-6b68-46f2-aed2-bd987c671085</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/sec-view/div/input</value>
-      <webElementGuid>1bdb420f-7ab4-4887-a9a1-a0734cb5672e</webElementGuid>
+      <value>//div/sec-view/div/input</value>
+      <webElementGuid>c6cbf118-8cc2-4658-95c6-19463e484249</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'phone_numberRegisterPage' and @type = 'text']</value>
-      <webElementGuid>54a62a57-0bf6-4bb6-9da9-ba1d84c403ab</webElementGuid>
+      <value>//input[@name = 'usernameRegisterPage' and @type = 'text']</value>
+      <webElementGuid>174bca90-bcdf-4575-b556-ef1fdca9b887</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

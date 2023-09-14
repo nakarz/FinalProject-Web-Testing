@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Home_navbar-Shooping Cart</name>
+   <name>Home_navbar-Shoping Cart</name>
    <tag></tag>
    <elementGuidId>e486b357-49d2-40be-98dc-23c8020bc4bb</elementGuidId>
    <selectorCollection>

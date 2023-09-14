@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Register_input-Agree Terms</name>
+   <name>Register_input-First Name</name>
    <tag></tag>
-   <elementGuidId>1ce6d530-0050-44f6-be7a-fd32ca1d9ea7</elementGuidId>
+   <elementGuidId>ffdd12dc-162e-41e6-b004-9df53fec2557</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;i_agree&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@name='first_nameRegisterPage']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='i_agree']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;first_nameRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>03a4ff9c-0dff-48b8-9486-46b0c09a3d44</webElementGuid>
+      <webElementGuid>83663049-d6f7-46e4-96df-bedfb763df93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>i_agree</value>
-      <webElementGuid>e9040f00-e381-4f0d-bbc9-6ffa1148d7c9</webElementGuid>
+      <value>first_nameRegisterPage</value>
+      <webElementGuid>04d237a8-3325-4d35-87fb-aa25000e2096</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>6c4df5fa-a780-4b65-ad05-8d7915a9ecfa</webElementGuid>
+      <value>text</value>
+      <webElementGuid>1c33e277-fd90-4419-8db0-1fc9ca77381b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>b46e1837-7ff9-4fcf-86db-5693b43a9d6a</webElementGuid>
+      <webElementGuid>c10f4b7a-b513-455b-9e42-c196aadfbf12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,78 +54,70 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
-      <webElementGuid>cd7c0f59-2424-45c4-82b2-99093c707ed6</webElementGuid>
+      <webElementGuid>8181693f-bb65-4784-b1ca-faf39a2dc51b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formCover&quot;)/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
-      <webElementGuid>7cc5b571-67dd-4335-b6d0-1917968a251c</webElementGuid>
+      <value>id(&quot;formCover&quot;)/div[2]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
+      <webElementGuid>1d590332-1c65-4c80-8eec-77039d0de3b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='i_agree']</value>
-      <webElementGuid>e110b244-70a5-4544-9d1b-69de6101963e</webElementGuid>
+      <value>//input[@name='first_nameRegisterPage']</value>
+      <webElementGuid>8360f03c-d75f-4f7c-b54d-690d8d0cc7f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='formCover']/sec-view/div/input</value>
-      <webElementGuid>8fc5eada-4246-4365-a216-a99d357ef611</webElementGuid>
+      <value>//div[@id='formCover']/div[2]/div/sec-view/div/input</value>
+      <webElementGuid>23dda87b-4212-4f5b-8158-d970fdccb0f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receive exclusive offers and promotions from Advantage'])[1]/following::input[1]</value>
-      <webElementGuid>ed95c457-21d3-4ed3-bd17-a9ade1e3a187</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERSONAL DETAILS'])[1]/following::input[1]</value>
+      <webElementGuid>01aec5b4-f452-4353-aa9d-05d52d368835</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use maximum 10 character'])[2]/following::input[2]</value>
-      <webElementGuid>634c9864-79cf-4527-b7c4-d6755bde3f3c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Same as Password'])[1]/following::input[1]</value>
+      <webElementGuid>5fccb0ab-d50b-4322-8ded-564e7fa5c838</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='I agree to the www.AdvantageOnlineShopping.com Conditions of Use and Privacy Notice'])[1]/preceding::input[1]</value>
-      <webElementGuid>21df5633-c57d-4be6-ac49-390e2237b6ba</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='I agree to the www.AdvantageOnlineShopping.com Conditions of Use and Privacy Notice'])[2]/preceding::input[1]</value>
-      <webElementGuid>74c36204-8e31-4e15-a60d-18eb8be2eb88</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[2]/preceding::input[1]</value>
+      <webElementGuid>330f9d53-ee43-472f-b952-204a1189e1d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//sec-form/div/div[2]/div/sec-view/div/input</value>
-      <webElementGuid>9571d53a-e84d-4ce7-b46c-7735f3364e02</webElementGuid>
+      <value>//div[2]/div/sec-view/div/input</value>
+      <webElementGuid>2956061d-bb56-401e-a107-8f13cd8b668d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'i_agree' and @type = 'checkbox']</value>
-      <webElementGuid>ffa6a1a4-4b49-4794-b9fc-d68f266df624</webElementGuid>
+      <value>//input[@name = 'first_nameRegisterPage' and @type = 'text']</value>
+      <webElementGuid>00ea5a4e-f72f-4048-a069-b8f59dafc0cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

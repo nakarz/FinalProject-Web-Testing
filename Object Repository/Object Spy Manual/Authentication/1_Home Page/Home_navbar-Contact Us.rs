@@ -3,15 +3,15 @@
    <description></description>
    <name>Home_navbar-Contact Us</name>
    <tag></tag>
-   <elementGuidId>49348a16-135a-409f-9196-fe91008d9d98</elementGuidId>
+   <elementGuidId>e7578ace-4f12-4fa9-bfb4-de0d184d0c10</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'CONTACT US')]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>a.menu.navLinks.roboto-regular.ng-scope</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>Home_navbar-Popular Items</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>64d9e4f4-ba74-42ed-bce8-b5bdcefa879a</webElementGuid>
+      <webElementGuid>dae1d28c-3445-4d45-90fe-794610ceb134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>249993ea-975a-4b2e-b68c-5aaeb19887b1</webElementGuid>
+      <webElementGuid>7122348b-ce69-4063-b924-99ede1de079b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>link</value>
-      <webElementGuid>e75fb27e-fb59-4ad3-ab52-874fe672fe65</webElementGuid>
+      <webElementGuid>faa8a7ab-f0b9-4038-b264-45c4ffbf01de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>gotoElement('contact_us')</value>
-      <webElementGuid>0fc035d2-86e4-4dfe-bb29-6710ab3b8cc6</webElementGuid>
+      <webElementGuid>db46e068-2343-457e-ab01-2913eda6bb2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu navLinks roboto-regular ng-scope</value>
-      <webElementGuid>6b5ed4b1-bf16-4e8e-b34f-87083a06bbe6</webElementGuid>
+      <webElementGuid>6bc5a166-59aa-4119-8e93-f1e3c08863fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>translate</name>
       <type>Main</type>
       <value>CONTACT_US</value>
-      <webElementGuid>d8a3812f-0d96-4e8f-be73-311ee8e7bca3</webElementGuid>
+      <webElementGuid>a33758fe-e69b-418d-8eda-8362a9edc29e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CONTACT US</value>
-      <webElementGuid>7949f3e8-7d53-4092-bae8-56ffa3302a72</webElementGuid>
+      <webElementGuid>71498ba3-3d85-417b-bc04-a0397db7a8f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/header[1]/nav[1]/ul[@class=&quot;roboto-light desktop-handler&quot;]/li[@class=&quot;nav-li-Links&quot;]/a[@class=&quot;menu navLinks roboto-regular ng-scope&quot;]</value>
-      <webElementGuid>44fa8344-12bf-417d-810c-41a959b86ae2</webElementGuid>
+      <webElementGuid>0e74931e-90a9-4394-abb9-116797e8a5cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'CONTACT US')]</value>
-      <webElementGuid>003376d8-a763-41ad-be83-be6fbd0f1693</webElementGuid>
+      <webElementGuid>532f7d36-9fb1-4bda-8a99-f7fe8c4b72dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::a[1]</value>
-      <webElementGuid>d46a645d-1ca2-4a1e-8dcf-359bfea85e5d</webElementGuid>
+      <webElementGuid>a7f65ae4-a481-4f8e-83a5-c5798cbebbc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('TOP RESULTS FOR: ', '&quot;', '', '&quot;', '')])[1]/following::a[2]</value>
-      <webElementGuid>bb333b34-b4bd-4959-92a7-cb18e3b65d6a</webElementGuid>
+      <webElementGuid>f59a6844-3c59-4038-8689-e188446a29f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POPULAR ITEMS'])[1]/preceding::a[1]</value>
-      <webElementGuid>658c38b4-5efd-4166-be63-239199fbb4e7</webElementGuid>
+      <webElementGuid>70de1936-a9fc-4e31-83b9-5c151b10a556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SPECIAL OFFER'])[1]/preceding::a[2]</value>
-      <webElementGuid>761b2a5d-5d4a-4a4d-ba84-4bc1e507715b</webElementGuid>
+      <webElementGuid>9c1d3007-17ce-42f6-9200-a880abe3e902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTACT US']/parent::*</value>
+      <webElementGuid>d8a6abd5-3ea0-456c-94c1-bce3c0fbe66f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[8]</value>
-      <webElementGuid>3c925346-dae7-41de-9134-9a0ba4a868a7</webElementGuid>
+      <webElementGuid>2ce23f86-0552-4915-a280-be07d5b5de25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a</value>
-      <webElementGuid>3b61664a-4ad6-4ead-934f-55c0f8f4c5ec</webElementGuid>
+      <webElementGuid>08f47979-a120-4101-b369-2d4d1210583d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and (text() = 'CONTACT US' or . = 'CONTACT US')]</value>
-      <webElementGuid>e24950a5-4a2d-41df-9794-a469eb45605b</webElementGuid>
+      <webElementGuid>029528d0-51f8-43a1-8f9a-46345120ae66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
