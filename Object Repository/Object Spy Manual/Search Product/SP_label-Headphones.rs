@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SP_label-Headphones</name>
+   <tag></tag>
+   <elementGuidId>a220008d-adaf-4dcd-8890-26c5eea7d9cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='output']/div/div/a/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.roboto-light.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>dae09e9f-e223-4ddb-810a-52cad8471079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light ng-binding</value>
+      <webElementGuid>a2e1fc72-def2-4b37-8198-282d364e1c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-mouseenter</name>
+      <type>Main</type>
+      <value>searchByCategoryId(result.categoryId, result.categoryName)</value>
+      <webElementGuid>6009e80d-334b-44c7-b373-0fe97c53ad68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        headphones
+                    </value>
+      <webElementGuid>507d7404-334d-458d-bb67-ac37ba1c9ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;searchPopUp&quot;]/div[@class=&quot;categories&quot;]/a[@class=&quot;ng-scope&quot;]/label[@class=&quot;roboto-light ng-binding&quot;]</value>
+      <webElementGuid>a856cc0e-0e29-48a8-8069-3acf97f523d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div/div/a/label</value>
+      <webElementGuid>29f247b4-9dd7-475e-8bd7-4c45ca6b5da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORIES'])[1]/following::label[1]</value>
+      <webElementGuid>390e49d4-98dd-4976-a31d-39ec2be04c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[2]/following::label[1]</value>
+      <webElementGuid>7fcecbd7-60e6-4d6f-8f8b-79f6fd965b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::label[1]</value>
+      <webElementGuid>709dd67f-36ac-4f0a-b584-7da32aa94203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/label</value>
+      <webElementGuid>af986ff9-2da4-4b27-9f4a-202db912e8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                        headphones
+                    ' or . = '
+                        headphones
+                    ')]</value>
+      <webElementGuid>d87e4eb2-b4c5-44d1-8ed1-fbefc6adb60d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

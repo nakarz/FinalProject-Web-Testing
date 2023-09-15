@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SO_productCO-Specification-SectionTouchScreen</name>
+   <tag></tag>
+   <elementGuidId>52a7858b-fc17-4433-bac7-0280a65fdbe7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AMD Quad-Core A10-8700P Processor + AMD Radeon(TM) R6 Graphics'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f78aa367-aaf8-43f8-991d-b9e817c0df4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light list ng-scope</value>
+      <webElementGuid>d3e2cbb5-af5d-4637-91f3-0f732025a7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>attr in product_attributes</value>
+      <webElementGuid>aaa03afa-dce4-42dc-a4ac-b026482fa77d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            TOUCHSCREEN
+            Yes
+        </value>
+      <webElementGuid>f1374018-974e-4025-8e01-01dd3a4217c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;uiview ng-scope&quot;]/section[@class=&quot;ng-scope&quot;]/article[@class=&quot;max-width&quot;]/div[@class=&quot;roboto-light list ng-scope&quot;]</value>
+      <webElementGuid>14191e12-1821-470d-9d76-8ac55044d56b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMD Quad-Core A10-8700P Processor + AMD Radeon(TM) R6 Graphics'])[1]/following::div[1]</value>
+      <webElementGuid>3c05b404-5b5e-496a-88f5-b2eefa2f530a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCESSOR'])[1]/following::div[1]</value>
+      <webElementGuid>ea796690-e350-4ca5-b007-0dcdfc9a3173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]</value>
+      <webElementGuid>c40e622a-097b-4cbd-9fb5-3ac6d92a5a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            TOUCHSCREEN
+            Yes
+        ' or . = '
+            TOUCHSCREEN
+            Yes
+        ')]</value>
+      <webElementGuid>6201d950-bed2-4ca1-ae32-a2dbec862e90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

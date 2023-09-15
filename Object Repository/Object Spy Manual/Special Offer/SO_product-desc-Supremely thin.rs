@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SO_product-desc-Supremely thin</name>
+   <tag></tag>
+   <elementGuidId>4b581978-c1c7-43b3-bc35-2cf7572badec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-special-offer']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > p.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4ee61b88-264c-4a2d-851c-a17cb3729c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>277a92c1-56b5-4ac5-8de9-7785036e5a27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Supremely thin, yet incredibly durable </value>
+      <webElementGuid>8114b906-9938-4e69-8d1a-09ee34f1ada9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-special-offer&quot;)/div[1]/p[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>857a67c0-8348-40d9-952a-88a10020e801</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-special-offer']/div/p</value>
+      <webElementGuid>3d303173-4406-4b7a-b793-22f35739f796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HP Pavilion 15z Touch Laptop'])[1]/following::p[1]</value>
+      <webElementGuid>2277dc5e-08f2-4d23-8e34-ef2cfe9bbba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE THE NEW DESIGN'])[1]/following::p[1]</value>
+      <webElementGuid>65b19054-97fd-4eb1-88dd-0544720c4b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEE OFFER'])[1]/preceding::p[1]</value>
+      <webElementGuid>068c43b3-b92c-4096-9949-c5ecb9b6ee1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL YOU WANT FROM A TABLET'])[1]/preceding::p[1]</value>
+      <webElementGuid>bf776270-d978-438e-a8a4-311657b15a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Supremely thin, yet incredibly durable']/parent::*</value>
+      <webElementGuid>fd755c5f-ef4b-4dd8-a54d-eaac2199f367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>8e4070fe-80eb-4363-8507-5e95171b31c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Supremely thin, yet incredibly durable ' or . = ' Supremely thin, yet incredibly durable ')]</value>
+      <webElementGuid>f65df471-9c6d-4e1c-a1d9-d07670cfdbdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
