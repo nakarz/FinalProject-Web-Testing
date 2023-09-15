@@ -51,9 +51,9 @@ WebUI.setText(findTestObject('Object Spy Manual/Authentication/2_Register/Regist
 
 WebUI.click(findTestObject('Object Spy Manual/Authentication/2_Register/Register_select-Country'))
 
-WebUI.click(findTestObject('Object Spy Manual/Authentication/2_Register/Register_checkBox-Receive exclusive'))
+WebUI.check(findTestObject('Object Spy Manual/Authentication/2_Register/Register_checkBox-Receive exclusive'))
 
-WebUI.click(findTestObject('Object Spy Manual/Authentication/2_Register/Register_checkBox-Agree Terms'))
+WebUI.check(findTestObject('Object Spy Manual/Authentication/2_Register/Register_checkBox-Agree Terms'))
 
 WebUI.click(findTestObject('Object Spy Manual/Authentication/2_Register/Register_btn-Register'))
 

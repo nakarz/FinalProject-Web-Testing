@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_
 
 WebUI.setText(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-inputPassword'), GlobalVariable.password)
 
-WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-check-box-RememberMe'))
+WebUI.check(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-check-box-RememberMe'))
 
 WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-buttonSignIn'))
 

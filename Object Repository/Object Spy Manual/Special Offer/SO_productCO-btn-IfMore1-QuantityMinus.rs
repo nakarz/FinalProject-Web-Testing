@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SO_productCO-btn-IfMore1-QuantityMinus</name>
+   <tag></tag>
+   <elementGuidId>70782f97-9620-4bd3-922e-296800e559cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='productProperties']/div[2]/e-sec-plus-minus/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.minus.disableBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a69cee9-d9d9-44a0-85ba-20beaeae6f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>minus disableBtn</value>
+      <webElementGuid>c55f904b-7b67-424f-901d-32e87e295501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>increment-value-attr</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>99a08c5f-47fd-490e-9635-224344cf2f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productProperties&quot;)/div[@class=&quot;smoolMargin&quot;]/e-sec-plus-minus[@class=&quot;ng-isolate-scope sec-plus-minus&quot;]/div[@class=&quot;e-sec-plus-minus&quot;]/div[@class=&quot;minus disableBtn&quot;]</value>
+      <webElementGuid>ff174adf-8877-4fb5-9ab6-4d35037c98e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productProperties']/div[2]/e-sec-plus-minus/div/div</value>
+      <webElementGuid>bc7d8ef7-39ac-4f76-8772-9c017b21f646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//e-sec-plus-minus/div/div</value>
+      <webElementGuid>1a7dfbae-7560-49e2-bd56-85ca5b8e6c4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
