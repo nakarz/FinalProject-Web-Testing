@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PI_product-HO Roar Plus</name>
+   <name>PI_product-HP Roar Plus</name>
    <tag></tag>
    <elementGuidId>9d26bef0-4d80-4302-9071-10de29e09a95</elementGuidId>
    <selectorCollection>
