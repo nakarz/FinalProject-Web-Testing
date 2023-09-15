@@ -17,7 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('TC_Manual/2_TC Authentication/TC02_Login User'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('TC_Manual/4_TC Search Product/TC05_Search Product'), [('inputSearchProduct') : 'BEATS STUDIO 2 OVER-EAR MATTE BLACK HEADPHONES '], 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbar-Popular Items'))
 

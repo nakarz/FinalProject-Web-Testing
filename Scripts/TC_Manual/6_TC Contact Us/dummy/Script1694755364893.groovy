@@ -17,19 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('TC_Manual/2_TC Authentication/TC01_Register User'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbar-UserAccount'))
-
-WebUI.setText(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-inputUsername'), GlobalVariable.username)
-
-WebUI.setText(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-inputPassword'), GlobalVariable.password)
-
-WebUI.check(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-check-box-RememberMe'))
-
-WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbarModal-Sign In-buttonSignIn'))
-
-WebUI.waitForElementPresent(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_header-Products'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_header-Products'), 0)
-

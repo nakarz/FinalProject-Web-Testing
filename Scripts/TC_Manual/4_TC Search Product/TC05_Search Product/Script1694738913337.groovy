@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('TC_Manual/2_TC Authentication/TC02_Login User'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('TC_Manual/3_TC Special Offer/TC04_Product Offer Checkout'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_navbar-Search'))
 

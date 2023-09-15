@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CU_btn-done-Continue Shopping</name>
+   <tag></tag>
+   <elementGuidId>3e8085c7-081e-42c4-bd2d-47768c2d1109</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='registerSuccessCover']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-button.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2bbb3e2-75a6-49fa-9764-852966c60b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button ng-binding</value>
+      <webElementGuid>d15f16f8-1750-45df-aab0-2c764aafeb4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/</value>
+      <webElementGuid>835b1124-4122-4ce5-b211-774678c8c60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>continueShopping()</value>
+      <webElementGuid>987a948b-46cb-4ffa-b892-2f66709491ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CONTINUE SHOPPING </value>
+      <webElementGuid>07c9dd4d-b4e3-425a-af77-dd5ce758d1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerSuccessCover&quot;)/div[@class=&quot;center&quot;]/a[@class=&quot;a-button ng-binding&quot;]</value>
+      <webElementGuid>b4db9f5a-184a-416e-a42c-5c98ee2998ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registerSuccessCover']/div/a</value>
+      <webElementGuid>175997f1-b480-4e7b-8abe-f4e9e79d4e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CONTINUE SHOPPING')]</value>
+      <webElementGuid>edd15a93-95fc-4975-9033-da037d141d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for contacting Advantage support.'])[1]/following::a[1]</value>
+      <webElementGuid>e131d9d7-befa-4766-8cc0-da070b6582e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEND'])[1]/following::a[1]</value>
+      <webElementGuid>7f7940fc-bafb-4a07-8742-0094445dde65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOLLOW US'])[1]/preceding::a[1]</value>
+      <webElementGuid>2baa3f74-a6d8-4f7f-a9bb-c19fe9496a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Advantage Inc, 2021. Release 3.2'])[1]/preceding::a[4]</value>
+      <webElementGuid>24158403-5f97-4bea-9f21-cba70874ea07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/')])[8]</value>
+      <webElementGuid>1852941e-6712-4014-9a25-341acccb0afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[5]/div[2]/div/a</value>
+      <webElementGuid>e8ba5ba8-bc15-4151-810a-5c1f95449d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/' and (text() = ' CONTINUE SHOPPING ' or . = ' CONTINUE SHOPPING ')]</value>
+      <webElementGuid>7b0428e8-3fbc-41b2-b8ef-9d40570b2b19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -79,4 +79,9 @@
       <initValue>'South Korea'</initValue>
       <name>country</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hoshi_cs@pledis.com'</initValue>
+      <name>emailCS</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
