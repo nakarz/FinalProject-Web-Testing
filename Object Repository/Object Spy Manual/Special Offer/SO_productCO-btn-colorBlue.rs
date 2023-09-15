@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SO_productCO-btn-colorBlue</name>
+   <tag></tag>
+   <elementGuidId>35893fd0-53dc-4fb4-b41e-dd683ed9da30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='bunny']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bunny</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2ed824e-3cce-450a-b510-013f6ae6a964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>BLUE</value>
+      <webElementGuid>41b49fe6-6819-436a-b6eb-07c05f055742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bunny</value>
+      <webElementGuid>877b2bb5-c88a-41e5-b19b-021b1efdb863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-repeat</name>
+      <type>Main</type>
+      <value>color in colors</value>
+      <webElementGuid>03c25360-1d94-4702-bbcc-e9ce5cb90845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productColor ng-scope BLUE</value>
+      <webElementGuid>d026b83a-ddc1-4c0f-b482-e7223cef6842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-hide</name>
+      <type>Main</type>
+      <value>color.code == 'ABCDEF'</value>
+      <webElementGuid>8988312a-9efe-4309-833d-2586e14775ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-style</name>
+      <type>Main</type>
+      <value>color.code == 'FFFFFF' ?
+                                          {'backgroundColor': '#' + color.code, 'border': 'solid 1px #9d9d9d' } :
+                                          {'backgroundColor': '#' + color.code, 'border': 'solid 1px transparent'}</value>
+      <webElementGuid>d4a96c3f-32f4-42ad-8e2c-4536b9b24629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{ colorSelected : colorSelected.name == color.name , BLUE : colorSelected.name}</value>
+      <webElementGuid>afebb645-9085-4bd4-b79b-ebb7d237207e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>setColor(color, $event)</value>
+      <webElementGuid>1e514a31-02c4-4c67-a2ae-3097e21c8fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productProperties&quot;)/div[@class=&quot;colors ng-scope&quot;]/div[2]/span[@id=&quot;bunny&quot;]</value>
+      <webElementGuid>f293773f-f2e7-4cdb-bf6a-b1092f519406</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='bunny']</value>
+      <webElementGuid>a4fe1618-27e3-44b4-ae12-d836707caf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productProperties']/div/div[2]/span</value>
+      <webElementGuid>2a7efc85-4d82-4f2c-a29d-95e1fe1326d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color:'])[1]/following::span[7]</value>
+      <webElementGuid>6ffcf1e5-a9da-4ba8-b8e4-23965303e989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/following::span[7]</value>
+      <webElementGuid>034d0b8d-2082-4e7e-8946-ed48461fd5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity:'])[1]/preceding::span[6]</value>
+      <webElementGuid>17bd869a-d0d5-485f-9829-c09df8c64651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Warranty'])[1]/preceding::span[6]</value>
+      <webElementGuid>b78aab9d-c3d8-4515-ba31-bce93c3026d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>06ee5c47-391f-4370-adf8-3536f2d6caa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'BLUE' and @id = 'bunny']</value>
+      <webElementGuid>022a0f57-848e-4950-8a85-06f069c3481f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

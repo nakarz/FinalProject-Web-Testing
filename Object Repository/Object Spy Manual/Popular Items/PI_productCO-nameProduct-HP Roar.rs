@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PI_productCO-nameProduct-HP Roar</name>
+   <tag></tag>
+   <elementGuidId>0de96f57-2008-4659-993b-67b74af6bcf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Description']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.roboto-regular.screen768.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>352a7d02-3dc4-42d6-bb8a-7d1930a31a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular screen768 ng-binding</value>
+      <webElementGuid>9baebbe6-4441-4c72-8fcb-a9ed73fe2d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> HP ROAR PLUS WIRELESS SPEAKER </value>
+      <webElementGuid>1d2a7e5b-6330-4cc2-ab4d-866188d0c713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Description&quot;)/h1[@class=&quot;roboto-regular screen768 ng-binding&quot;]</value>
+      <webElementGuid>e55ece9f-6f2f-4766-b12c-a0788775c6c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Description']/h1</value>
+      <webElementGuid>b1a078d8-99db-4368-a455-5f5a444d4259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[1]/following::h1[1]</value>
+      <webElementGuid>6cf01801-786d-488b-b1ab-cfeff2899c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/preceding::h1[1]</value>
+      <webElementGuid>feb3668a-c2c5-4ee9-bd63-3b3295ac0d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h1</value>
+      <webElementGuid>43f45665-378e-482f-93a5-f0fce706e2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' HP ROAR PLUS WIRELESS SPEAKER ' or . = ' HP ROAR PLUS WIRELESS SPEAKER ')]</value>
+      <webElementGuid>e428943b-97fa-4e54-bf1e-92e9b478d8de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

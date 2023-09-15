@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SO_productCO-Specification-SectionCustomization</name>
+   <tag></tag>
+   <elementGuidId>e94c688d-50b7-4f47-b1b2-29a51463ebf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT SPECIFICATIONS'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.roboto-light.list.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23494223-5127-40ae-83e3-a1efbace200c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light list ng-scope</value>
+      <webElementGuid>7a82ae34-c9e0-4a9a-9501-e6b4ea34055f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>attr in product_attributes</value>
+      <webElementGuid>b4863afc-2ac3-4dde-b062-3be55a0fe7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            CUSTOMIZATION
+            Simplicity
+        </value>
+      <webElementGuid>6ca65342-7b45-4574-b9fa-cf21e2e81aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;uiview ng-scope&quot;]/section[@class=&quot;ng-scope&quot;]/article[@class=&quot;max-width&quot;]/div[@class=&quot;roboto-light list ng-scope&quot;]</value>
+      <webElementGuid>3ed9720c-1c41-49e7-9902-be5ee07846e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT SPECIFICATIONS'])[1]/following::div[1]</value>
+      <webElementGuid>42e3c1c2-5cfa-4901-af6c-d4036d653618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/following::div[2]</value>
+      <webElementGuid>1c228ad9-6dee-4e42-9f3c-83b698540385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[2]/div</value>
+      <webElementGuid>2341e978-1cb7-4ac3-8b0a-88bcc413a3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            CUSTOMIZATION
+            Simplicity
+        ' or . = '
+            CUSTOMIZATION
+            Simplicity
+        ')]</value>
+      <webElementGuid>10ffc871-9292-4937-ab8d-66c0c39eb208</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PI_productCO-descProduct-HP Roar</name>
+   <tag></tag>
+   <elementGuidId>c24d0c79-2086-4fc3-a47c-0cd53585f24f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Description']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.roboto-light.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b152c1fe-b66d-40cd-a3a2-b124cf71e342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-light ng-binding</value>
+      <webElementGuid>26a2c511-225b-44f1-a06b-18c8197779da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Showcase your music anywhere with the ease of wireless Bluetooth® connectivity. </value>
+      <webElementGuid>a6dc60f6-8af0-4e17-94cb-b8145c93cadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Description&quot;)/p[@class=&quot;roboto-light ng-binding&quot;]</value>
+      <webElementGuid>53560e3f-a0f4-4dcc-b99d-a6b6f8c0c2f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Description']/p</value>
+      <webElementGuid>6d3a65cd-882b-41ba-8f42-f8879adc9458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/following::p[1]</value>
+      <webElementGuid>79e2952b-f59f-4292-8548-ad8ff95f1f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color:'])[1]/preceding::p[1]</value>
+      <webElementGuid>7053a682-aecc-4d37-816f-a46cdf3df98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity:'])[1]/preceding::p[1]</value>
+      <webElementGuid>e5f52a2a-4fdf-414f-8b27-12cb627736f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>f96d73dd-748b-4654-b47f-63fe6fcb3086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Showcase your music anywhere with the ease of wireless Bluetooth® connectivity. ' or . = ' Showcase your music anywhere with the ease of wireless Bluetooth® connectivity. ')]</value>
+      <webElementGuid>3658425b-4162-469d-b45e-5720a4bc1d82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
