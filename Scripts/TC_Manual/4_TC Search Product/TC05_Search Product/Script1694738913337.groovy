@@ -85,3 +85,5 @@ WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Search Product/SP_p
 
 WebUI.click(findTestObject('Object Spy Manual/Search Product/SP_productCO-btn_Add To Cart'))
 
+WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_link-logo-Advantage Demo'))
+
