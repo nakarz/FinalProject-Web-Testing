@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SP_navbar-currentPageLocationSearch</name>
+   <name>SP_productCO-navbar-currentPageLocationSearch</name>
    <tag></tag>
    <elementGuidId>fa29738d-7496-411a-97e2-71ecb74cd83b</elementGuidId>
    <selectorCollection>

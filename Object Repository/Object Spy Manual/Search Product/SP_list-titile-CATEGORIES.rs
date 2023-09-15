@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SP_list-titile-CATEGORIES</name>
+   <name>SP_list-titile-Categories</name>
    <tag></tag>
    <elementGuidId>b8324f03-730b-4c8f-9db6-8535f5375e0e</elementGuidId>
    <selectorCollection>

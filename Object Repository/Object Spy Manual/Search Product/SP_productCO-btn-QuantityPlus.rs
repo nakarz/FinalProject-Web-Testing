@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>div.plus</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;productProperties&quot;)/div[@class=&quot;smoolMargin&quot;]/e-sec-plus-minus[@class=&quot;ng-isolate-scope sec-plus-minus&quot;]/div[@class=&quot;e-sec-plus-minus&quot;]/div[@class=&quot;plus&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>00f55a3b-6656-4fd0-b654-eafe04dc9299</webElementGuid>
+      <webElementGuid>fe7e2429-dd10-4d2e-8602-11b8192c2060</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>plus</value>
-      <webElementGuid>afc43e95-d300-4184-a114-87ea74a902d9</webElementGuid>
+      <webElementGuid>fef0a95e-34ea-4648-8360-cd66bf9faec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>increment-value-attr</name>
       <type>Main</type>
       <value>+</value>
-      <webElementGuid>024fade4-ec0c-49c7-b7bc-e1b4b928d0e5</webElementGuid>
+      <webElementGuid>8fea962d-4cb7-48d6-802a-2ef54bd0afe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;productProperties&quot;)/div[@class=&quot;smoolMargin&quot;]/e-sec-plus-minus[@class=&quot;ng-isolate-scope sec-plus-minus&quot;]/div[@class=&quot;e-sec-plus-minus&quot;]/div[@class=&quot;plus&quot;]</value>
-      <webElementGuid>05d047e9-050f-4ad7-8d2a-5c2a6d4162b2</webElementGuid>
+      <webElementGuid>6ddb794d-ab52-4220-9767-48d0265212f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='productProperties']/div[2]/e-sec-plus-minus/div/div[3]</value>
-      <webElementGuid>a486e70a-ceb6-47d9-9b2c-234cb3e416d2</webElementGuid>
+      <webElementGuid>72478752-ca3d-46e6-9e7c-4fc4e52ca13e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +66,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//e-sec-plus-minus/div/div[3]</value>
-      <webElementGuid>6d773206-08a4-4dd5-a80f-d69f36fdd4a3</webElementGuid>
+      <webElementGuid>53450927-32dc-466c-8500-0e8aad116220</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

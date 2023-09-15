@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Search Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bd24a40-0017-4af0-bba8-35554ffc0459</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e8e22a1-6724-411e-8c0c-454d779838b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BEATS STUDIO 2 OVER-EAR MATTE BLACK HEADPHONES '</defaultValue>
+      <description></description>
+      <id>4e8e22a1-6724-411e-8c0c-454d779838b2</id>
+      <masked>false</masked>
+      <name>inputSearchProduct</name>
+   </variable>
+</TestCaseEntity>

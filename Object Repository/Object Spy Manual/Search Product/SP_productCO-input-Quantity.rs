@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SP_productCO-input-Qquantity</name>
+   <name>SP_productCO-input-Quantity</name>
    <tag></tag>
    <elementGuidId>44d8524e-4318-4f8a-8ab3-ab4c2fb64ee8</elementGuidId>
    <selectorCollection>

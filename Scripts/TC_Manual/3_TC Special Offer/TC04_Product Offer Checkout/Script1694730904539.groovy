@@ -43,7 +43,6 @@ WebUI.waitForElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_p
 
 WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_productCO-btn-Add To Cart'), 0)
 
-//WebUI.scrollToElement(findTestObject('Object Spy Manual/Special Offer/SO_productCO-title-Product Specification'), 0)
 WebUI.waitForElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_productCO-title-Product Specification'), 
     0)
 
@@ -101,7 +100,6 @@ WebUI.waitForElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_p
 
 WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_productCO-Specification-SectionWeight'), 0)
 
-//WebUI.scrollToElement(findTestObject('Object Spy Manual/Special Offer/SO_btn-See Offer'), 10)
 WebUI.click(findTestObject('Object Spy Manual/Special Offer/SO_productCO-btn-colorPurple'))
 
 // Get the quantity value
@@ -117,7 +115,8 @@ if (quantity <= 1) {
     WebUI.verifyElementPresent(findTestObject('Object Repository/Object Spy Manual/Special Offer/SO_productCO-btn-if1Less1-QuantityMinusDisabled'), 
         0)
 
-    WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_productCO-btn-QuantityPlus'), 0) // Quantity is greater than 1 and the Quantity Minus button is present
+    WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_productCO-btn-QuantityPlus'), 0 // Quantity is greater than 1 and the Quantity Minus button is present
+        )
 } else {
     WebUI.click(findTestObject('Object Spy Manual/Special Offer/SO_productCO-btn-QuantityPlus'))
 
@@ -129,4 +128,6 @@ WebUI.click(findTestObject('Object Spy Manual/Special Offer/SO_productCO-btn-Add
 WebUI.waitForElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_producPopUpCO-cardProduct'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Spy Manual/Special Offer/SO_producPopUpCO-cardProduct'), 0)
+
+WebUI.click(findTestObject('Object Spy Manual/Authentication/1_Home Page/Home_link-logo-Advantage Demo'))
 
