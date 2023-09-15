@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Najwa - Test case Import Jira - Contact Us
+Description: Feature: Contact to Advantage Demo Shoppinh
+As a user, I want to fill feedback form in Contact Us section
+
+Background:
+	url [https://advantageonlineshopping.com/#/|https://advantageonlineshopping.com/#/|smart-link] 
+
+@TC_FeedbackForm1
+Scenario: Access Contact Us with Valid Inputs
+	When I click on 'Contact Us' utton at navigation bar
+	And I should navigated to Contact Us section
+	And I select one of value from dropdown Category &lt;selectedCategory>
+	And I select one of value from dropdown Product &lt;selectedProduct>
+	And I enter Email &lt;email>
+	And I enter Subject &lt;subject>
+	And I click on 'Send' button
+
+@TC_FeedbackForm2
+Scenario: Access Contact Us with Invalid Inputs
+	When I click on 'Contact Us' utton at navigation bar
+	And I should navigated to Contact Us section
+	And I select one of value from dropdown Category &lt;selectedCategory>
+	And I select one of value from dropdown Product &lt;selectedProduct>
+	And I enter Email &lt;invalid_email>
+	And I enter Subject &lt;subject>
+	And I click on 'Send' button
+	Then I should see warning message for email and subject field
+
+Examples:
+| email | subject | selectedCategory | selectedProduct |
+| [wonu@yahoo.com|mailto:wonu@yahoo.com] | This headphone has broken sounds  | Headphones | Headphone Sony Ultra |</description>
+   <name>WBP-8 Najwa - Test case Import Jira - Contact Us</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10034&quot;:&quot;Feature: Contact to Advantage Demo Shoppinh\nAs a user, I want to fill feedback form in Contact Us section\n\nBackground:\n\turl https://advantageonlineshopping.com/#/\n\n@TC_FeedbackForm1\nScenario: Access Contact Us with Valid Inputs\n\tWhen I click on \u0027Contact Us\u0027 utton at navigation bar\n\tAnd I should navigated to Contact Us section\n\tAnd I select one of value from dropdown Category \u003cselectedCategory\u003e\n\tAnd I select one of value from dropdown Product \u003cselectedProduct\u003e\n\tAnd I enter Email \u003cemail\u003e\n\tAnd I enter Subject \u003csubject\u003e\n\tAnd I click on \u0027Send\u0027 button\n\n@TC_FeedbackForm2\nScenario: Access Contact Us with Invalid Inputs\n\tWhen I click on \u0027Contact Us\u0027 utton at navigation bar\n\tAnd I should navigated to Contact Us section\n\tAnd I select one of value from dropdown Category \u003cselectedCategory\u003e\n\tAnd I select one of value from dropdown Product \u003cselectedProduct\u003e\n\tAnd I enter Email \u003cinvalid_email\u003e\n\tAnd I enter Subject \u003csubject\u003e\n\tAnd I click on \u0027Send\u0027 button\n\tThen I should see warning message for email and subject field\n\nExamples:\n| email | subject | selectedCategory | selectedProduct |\n| wonu@yahoo.com | This headphone has broken sounds  | Headphones | Headphone Sony Ultra |&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0003z:&quot;},&quot;status&quot;:{&quot;id&quot;:10003,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://ksat08git.atlassian.net/&quot;,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/status/10003&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;WBP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Website Based Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Najwa - Test case Import Jira - Contact Us&quot;,&quot;description&quot;:&quot;Feature: Contact to Advantage Demo Shoppinh\nAs a user, I want to fill feedback form in Contact Us section\n\nBackground:\n\turl [https://advantageonlineshopping.com/#/|https://advantageonlineshopping.com/#/|smart-link] \n\n@TC_FeedbackForm1\nScenario: Access Contact Us with Valid Inputs\n\tWhen I click on \u0027Contact Us\u0027 utton at navigation bar\n\tAnd I should navigated to Contact Us section\n\tAnd I select one of value from dropdown Category \u003cselectedCategory\u003e\n\tAnd I select one of value from dropdown Product \u003cselectedProduct\u003e\n\tAnd I enter Email \u003cemail\u003e\n\tAnd I enter Subject \u003csubject\u003e\n\tAnd I click on \u0027Send\u0027 button\n\n@TC_FeedbackForm2\nScenario: Access Contact Us with Invalid Inputs\n\tWhen I click on \u0027Contact Us\u0027 utton at navigation bar\n\tAnd I should navigated to Contact Us section\n\tAnd I select one of value from dropdown Category \u003cselectedCategory\u003e\n\tAnd I select one of value from dropdown Product \u003cselectedProduct\u003e\n\tAnd I enter Email \u003cinvalid_email\u003e\n\tAnd I enter Subject \u003csubject\u003e\n\tAnd I click on \u0027Send\u0027 button\n\tThen I should see warning message for email and subject field\n\nExamples:\n| email | subject | selectedCategory | selectedProduct |\n| [wonu@yahoo.com|mailto:wonu@yahoo.com] | This headphone has broken sounds  | Headphones | Headphone Sony Ultra |&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;najwa.kariza12@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Najwa Kariza&quot;,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/user?accountId\u003d623517091f014e0069ce9dfc&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;najwa.kariza12@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Najwa Kariza&quot;,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/user?accountId\u003d623517091f014e0069ce9dfc&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/issue/WBP-8/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://ksat08git.atlassian.net/rest/api/2/issue/10021&quot;,&quot;key&quot;:&quot;WBP-8&quot;,&quot;id&quot;:10021}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>d16d4ce7-d42a-4dbb-99ce-8c74ff29ce9c</testCaseGuid>
+</TestCaseEntity>
